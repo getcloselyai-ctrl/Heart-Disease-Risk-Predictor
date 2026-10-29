@@ -17,7 +17,7 @@ A Streamlit web application that predicts the likelihood of heart disease using 
 - Pandas
 - NumPy
 
-# ⚙️ Installation
+# Installation
 
 ```bash
 git clone https://github.com/getcloselyai-ctrl/Heart-Disease-Prediction.git
@@ -26,11 +26,11 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-# ⚠️ Disclaimer
+# Disclaimer
 
 This project is for educational purposes only. It is not a substitute for professional medical advice or diagnosis.
 
-# 👨‍💻 Author
+# Author
 
 **getcloselyai-ctrl**
 
