@@ -30,6 +30,10 @@ streamlit run app.py
 
 This project is for educational purposes only. It is not a substitute for professional medical advice or diagnosis.
 
+# Live Demo
+
+[Click Here](https://heart-disease-risk-predictor-ad.streamlit.app/)
+
 # Author
 
 **getcloselyai-ctrl**
